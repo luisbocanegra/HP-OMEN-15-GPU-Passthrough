@@ -13,5 +13,5 @@ OMEN by HP 15-dc1004la (2019) Laptop GPU passthrough
 | GPU (Guest) | NVIDIA GeForce GTX 1650 Mobile / Max-Q (4GB)   |
 | OS          |  Arch Linux |
 | Guest OS    | Windows 10 20H2 |
-| Guest Output | Dell P2419H Monitor (HDMI) |
+| Guest Output | HDMI (DP output not tested) |
 | Firmware    | UEFI    |
